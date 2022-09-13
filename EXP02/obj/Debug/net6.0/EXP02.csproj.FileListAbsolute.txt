@@ -1,0 +1,15 @@
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\bin\Debug\net6.0\EXP02.exe
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\bin\Debug\net6.0\EXP02.deps.json
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\bin\Debug\net6.0\EXP02.runtimeconfig.json
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\bin\Debug\net6.0\EXP02.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\bin\Debug\net6.0\EXP02.pdb
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.csproj.AssemblyReference.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.AssemblyInfoInputs.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.AssemblyInfo.cs
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.csproj.CoreCompileInputs.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\refint\EXP02.dll
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.pdb
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\EXP02.genruntimeconfig.cache
+C:\Users\Myra\Documents\Обучение\Языки программирования\DZ__3\EXP02\obj\Debug\net6.0\ref\EXP02.dll
